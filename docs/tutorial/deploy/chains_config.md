@@ -4,8 +4,8 @@
 
 ## 接入区块链
 
-- **接入FISCO BCOS**：接入至跨链路由`router-8250`，[详细教程](../../stubs/bcos.html)
-- **接入Hyperledger Fabric**：接入至跨链路由`router-8251`，[详细教程](../../stubs/fabric.html)
+- **接入FISCO BCOS**：接入至跨链路由`router-8250`，[详细教程](../../stubs/index.html)
+- **接入Hyperledger Fabric**：接入至跨链路由`router-8251`，[详细教程](../../stubs/index.html)
 ![](../../images/tutorial/demo.png)
 
 完成区块链接入后，重启跨链路由加载已配置的跨链资源。
